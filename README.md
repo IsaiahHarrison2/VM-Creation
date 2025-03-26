@@ -30,7 +30,7 @@ This tutorial outlines how to create a Virtual Machine within Azure Virtual Mach
 <h2>Deployment and Configuration Steps</h2>
 
 <p>
-<img width="1632" alt="9B290FD3-5103-4B3B-AAA0-EFFC50BFB9E4" src="https://github.com/user-attachments/assets/9bb00cad-0224-45d8-86ca-a782865ca390" />
+<img width="1632" alt="72DE23BE-0D0E-4314-93BF-7A31DC2AF8AD" src="https://github.com/user-attachments/assets/7abc61c8-5fad-406e-8ab6-1aa68f10581d" />
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
