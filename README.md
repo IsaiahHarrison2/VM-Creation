@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
 </p>
 
-<h1>How to create a Virtual Machine(Azure)</h1>
+<h1>How to Create a Virtual Machine(Azure)</h1>
 This tutorial outlines how to create a Virtual Machine within Azure Virtual Machines.<br />
 
 
