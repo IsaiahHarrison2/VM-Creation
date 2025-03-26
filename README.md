@@ -33,14 +33,14 @@ This tutorial outlines how to create a Virtual Machine within Azure Virtual Mach
 <img width="1632" alt="72DE23BE-0D0E-4314-93BF-7A31DC2AF8AD" src="https://github.com/user-attachments/assets/7abc61c8-5fad-406e-8ab6-1aa68f10581d" />
 </p>
 <p>
-First, you want to login into portal.azure.com an locate/and or search for the resource group. Press Create, make a resource group name. Make sure when doing this you put everything in the same region. (Ex. West Us 1).
+First, you want to login into portal.azure.com an locate/and or search for the resource group. Press Create, make a resource group name. Make sure when doing this you put everything in the same region. (West US 2) Press review + create and create.
 </p
 <br />
 
 <p>
 <img width="1632" alt="A25FE2C8-2BAF-4B63-A3AA-F8882D475520" src="https://github.com/user-attachments/assets/19a29e86-6922-4e5e-8b82-8fa09cbd29ba" />
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Once yoiu have completed the process of creating a resource Group, you should then proceed towards creating a Virtual Machine. (search or locate Virtual Machines tab) While using VM, find your resource group name, then create a VM name, "MAKE SURE REGIONS ARE THE SAME', pick an image (Windows Server, Windows 10, Ubuntu, Red Hat) Create a Username and Password for your VM. Go through an make sure everything else is good as far as networking, disk or tags or looking good and gthen create.
 </p>
 <br />
 
