@@ -40,7 +40,7 @@ First, you want to login into portal.azure.com an locate/and or search for the r
 <p>
 <img width="1632" alt="A25FE2C8-2BAF-4B63-A3AA-F8882D475520" src="https://github.com/user-attachments/assets/19a29e86-6922-4e5e-8b82-8fa09cbd29ba" />
 <p>
-Once yoiu have completed the process of creating a resource Group, you should then proceed towards creating a Virtual Machine. (search or locate Virtual Machines tab) While using VM, find your resource group name, then create a VM name, "MAKE SURE REGIONS ARE THE SAME', pick an image (Windows Server, Windows 10, Ubuntu, Red Hat) Create a Username and Password for your VM. Go through an make sure everything else is good as far as networking, disk or tags or looking good and gthen create.
+Once yoiu have completed the process of creating a resource Group, you should then proceed towards creating a Virtual Machine. (search or locate Virtual Machines tab) While using VM, find your resource group name, then create a VM name, "MAKE SURE REGIONS ARE THE SAME', pick an image (Windows Server, Windows 10, Ubuntu, Red Hat) Create a Username and Password for your VM. Go through an make sure everything else is good as far as networking, disk or tags or looking good and then create.
 </p>
 <br />
 
