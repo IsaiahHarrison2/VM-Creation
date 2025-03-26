@@ -22,10 +22,10 @@ This tutorial outlines how to create a Virtual Machine within Azure Virtual Mach
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Log into portal.azure.com
+- Create a Resource Group
+- Create a Virtual Machine
+- Use Microsoft Remote Desktop
 
 <h2>Deployment and Configuration Steps</h2>
 
