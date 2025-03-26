@@ -46,7 +46,7 @@ Once you have completed the process of creating a resource Group, you should the
 
 <p>
 <img width="1173" alt="00A50CE6-555E-4E00-B094-7A8D1482ECE1" src="https://github.com/user-attachments/assets/5e059e5c-8392-4d34-b979-b66f71129ae2" />
->
+
 </p>
 <p>
 Lastly, Go back to your VM tab and find the Public IP address and copy it into your Microsoft Remote Desktop app (for Mac users) or Remote Desktop to connect to the Virtual Machine. If using Microsoft Remote Desktop, find the ( + ) sign in the top right hand corner. Add the IP address to PC and youll be up an running.
