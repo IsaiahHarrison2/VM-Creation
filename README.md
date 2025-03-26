@@ -3,7 +3,7 @@
 </p>
 
 <h1>How to Create a Virtual Machine(Azure)</h1>
-This tutorial outlines how to create a Virtual Machine within Azure Virtual Machines.<br />
+This project shows you a brief way of how to create a Virtual Machine through Microsoft Azure Portal.<br />
 
 
 
